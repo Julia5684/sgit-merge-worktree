@@ -147,5 +147,5 @@ All 61 integration tests execute in disposable system-temporary repositories wit
 
 ## 📄 License & Distribution
 
-* **Open-Source Evaluation**: Distributed under the [MIT License](LICENSE). Copyright (c) 2026 Julia5684.
+* **Open-Source Evaluation**: Distributed under the [MIT License](LICENSE). Copyright (c) 2026 Julia.
 * **Commercial Distribution & 1-Click MCP Setup**: Available through [Agensi.io](https://www.agensi.io/creators/spxzhu).
