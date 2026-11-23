@@ -1,0 +1,6 @@
+interface:
+  display_name: "sgit-merge-worktree"
+  short_description: "Squash linked worktree changes to main, exclude artifacts, bump SemVer, and teardown worktree."
+  default_prompt: "Use $sgit-merge-worktree to clean source worktree artifacts, squash all business changes into the main branch, update SemVer, and safely remove the worktree after user confirmation."
+policy:
+  allow_implicit_invocation: false
